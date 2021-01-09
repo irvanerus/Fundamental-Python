@@ -1,0 +1,3 @@
+from geometri.luas_segitiga import hitung_luas_segitiga
+
+hitung_luas_segitiga
